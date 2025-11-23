@@ -26,14 +26,13 @@ app_license = "mit"
 # include js, css files in header of desk.html
 # app_include_css = "/assets/hrms_custom/css/hrms_custom.css"
 # app_include_js = "/assets/hrms_custom/js/hrms_custom.js"
-app_include_js = ["public/js/home_override.js"]
+app_include_js = ["/assets/hrms_custom/js/home_override.js"]
 # include js, css files in header of web template
 # web_include_css = "/assets/hrms_custom/css/hrms_custom.css"
 # web_include_js = "/assets/hrms_custom/js/hrms_custom.js"
 
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "hrms_custom/public/scss/website"
-
 # include js, css files in header of web form
 # webform_include_js = {"doctype": "public/js/doctype.js"}
 # webform_include_css = {"doctype": "public/css/doctype.css"}
