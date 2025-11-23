@@ -26,7 +26,7 @@ app_license = "mit"
 # include js, css files in header of desk.html
 # app_include_css = "/assets/hrms_custom/css/hrms_custom.css"
 # app_include_js = "/assets/hrms_custom/js/hrms_custom.js"
-app_include_js = ["/assets/hrms_custom/js/home_override.js"]
+app_include_js = ["assets/hrms_custom/js/home_override.js"]
 # include js, css files in header of web template
 # web_include_css = "/assets/hrms_custom/css/hrms_custom.css"
 # web_include_js = "/assets/hrms_custom/js/hrms_custom.js"
