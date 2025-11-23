@@ -4,7 +4,6 @@ app_publisher = "Someswar"
 app_description = "Custom HRMS extension for Food Request"
 app_email = "jajulasandeep583@gmail.com"
 app_license = "mit"
-
 # Apps
 # ------------------
 
@@ -27,7 +26,7 @@ app_license = "mit"
 # include js, css files in header of desk.html
 # app_include_css = "/assets/hrms_custom/css/hrms_custom.css"
 # app_include_js = "/assets/hrms_custom/js/hrms_custom.js"
-
+app_include_js = ["public/js/home_override.js"]
 # include js, css files in header of web template
 # web_include_css = "/assets/hrms_custom/css/hrms_custom.css"
 # web_include_js = "/assets/hrms_custom/js/hrms_custom.js"
